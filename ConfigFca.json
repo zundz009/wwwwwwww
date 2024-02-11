@@ -1,0 +1,30 @@
+{
+	"Config_Version": "1.7.5",
+	"Language": "vi",
+	"AutoUpdate": true,
+	"MainColor": "#00FFFF",
+	"MainName": "[ FCA-DONG ]",
+	"Uptime": false,
+	"Config": "default",
+	"DevMode": false,
+	"Login2Fa": false,
+	"AutoLogin": false,
+	"BroadCast": true,
+	"AuthString": "7VID SQBS GD2L QOEU PBTZ P2ZE SMLD VUN4",
+	"EncryptFeature": true,
+	"ResetDataLogin": false,
+	"AutoInstallNode": false,
+	"AntiSendAppState": true,
+	"AutoRestartMinutes": 0,
+	"RestartMQTT_Minutes": 0,
+	"HTML": {},
+	"AntiGetInfo": {
+		"Database_Type": "default",
+		"AntiGetThreadInfo": true,
+		"AntiGetUserInfo": true
+	},
+	"Stable_Version": {
+		"Accept": false,
+		"Version": ""
+	}
+}
